@@ -2,6 +2,10 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.container{
+    display: flex;
+
+}
 .sidebar{
     background-color: tomato;
     height: 100vh;
@@ -11,4 +15,9 @@ body{
     background-color: lightblue;
     height: 100vh;
     width: 100%;
+}
+img{
+    height: 45px;
+    width: 45px;
+    margin: 10px;
 }
