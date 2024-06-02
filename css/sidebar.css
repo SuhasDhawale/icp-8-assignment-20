@@ -4,6 +4,7 @@ body{
 }
 .container{
     display: flex;
+    min-height: 100vh;
 
 }
 .sidebar{
@@ -20,12 +21,14 @@ body{
     display: flex;
     align-items: center;
     background-color: white;
+    margin: 10px;
+    border-radius: 10px;
 }
-span{
+.menu-text{
     margin-left: 10px;
     font-size: 23px;
 }
-img{
+.menu-icon{
     height: 45px;
     width: 45px;
     margin: 10px;
