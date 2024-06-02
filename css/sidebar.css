@@ -26,6 +26,7 @@ body{
     display: flex;
     align-items: center;
     padding: 5px 20px;
+    cursor: pointer;
 }
 .menu-text{
     margin-left: 10px;
