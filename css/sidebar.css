@@ -23,6 +23,9 @@ body{
     background-color: white;
     margin: 10px;
     border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
 }
 .menu-text{
     margin-left: 10px;
