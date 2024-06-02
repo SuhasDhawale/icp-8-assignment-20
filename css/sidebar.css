@@ -22,14 +22,11 @@ body{
     align-items: center;
     background-color: white;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 .menu-text{
     margin-left: 10px;
-    font-size: 23px;
 }
 .menu-icon{
-    height: 45px;
-    width: 45px;
-    margin: 10px;
+    height: 20px;
 }
