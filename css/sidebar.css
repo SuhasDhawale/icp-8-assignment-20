@@ -77,7 +77,8 @@ body{
         display: none;
     }
     .bottom-navigation-bar{
-        display: block;
+        display: flex;
+        justify-content: space-around;
     }
 }
 
