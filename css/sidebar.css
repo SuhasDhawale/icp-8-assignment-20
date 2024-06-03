@@ -69,6 +69,9 @@ body{
         display: flex;
         justify-content: space-around;
     }
+    .active-menu{
+        background-color:  #99ccff;
+    }
 }
 
 /* Normal Devices */
