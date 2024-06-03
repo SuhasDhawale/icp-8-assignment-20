@@ -51,6 +51,7 @@ body{
     width: 100%;
     background-color: rgb(47, 50, 51);
     color: #fff;
+    display: none;
 }
 
 /* Small Devices */
