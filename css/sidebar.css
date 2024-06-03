@@ -59,10 +59,19 @@ body{
     .sidebar{
         display: none;
     }
+    .bottom-navigation-bar{
+        display: block;
+    }
 }
 
 /* Normal Devices */
 @media screen and (min-width: 601px) and (max-width: 768px){
+    .sidebar{
+        display: none;
+    }
+    .bottom-navigation-bar{
+        display: block;
+    }
 }
 
 /* Tablets Devices */
