@@ -44,6 +44,14 @@ body{
 .menu-icon{
     height: 20px;
 }
+.bottom-navigation-bar{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(47, 50, 51);
+    color: #fff;
+}
 
 /* Small Devices */
 @media screen and (max-width: 600px){
