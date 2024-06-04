@@ -81,7 +81,7 @@ body{
         justify-content: space-around;
     }
     .active-menu{
-        background-color:  #99ccff;
+        background-color:  rgb(158, 172, 202);
     }
 }
 
