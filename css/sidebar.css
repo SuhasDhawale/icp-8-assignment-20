@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    margin-top: 40px;
     padding: 0px;
 }
 .container{
@@ -59,6 +60,15 @@ body{
     padding: 10px;
     border-radius: 10px;
     height: 25px;
+}
+.brand-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.brand-logo{
+    height: 40px;
 }
 /* Small Devices */
 @media screen and (max-width: 600px){
