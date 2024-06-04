@@ -16,7 +16,6 @@ body{
 .container{
     display: flex;
     min-height: 100vh;
-
 }
 .sidebar{
     background-color: rgb(47, 50, 51);
@@ -44,10 +43,10 @@ body{
     color: black;
 }
 .active-menu{
-    background-color:  #99ccff;
+    background-color: rgb(158, 172, 202);
 }
 .menu-item:hover{
-    background-color: #99ccff;
+    background-color: rgb(158, 172, 202);
 }
 .menu-text{
     margin-left: 10px;
