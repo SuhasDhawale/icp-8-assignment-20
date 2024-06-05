@@ -1,0 +1,34 @@
+.contact-info{
+    text-align: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+form div {
+    margin: 10px 0;
+}
+form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+form input, form textarea {
+    width: 100%;
+    max-width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+form button {
+    padding: 10px 20px;
+    background-color: #3b5358;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+form button:hover {
+    background-color: #6e919a;
+}
