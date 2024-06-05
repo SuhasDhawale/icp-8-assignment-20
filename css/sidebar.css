@@ -101,8 +101,15 @@ body{
 
 /* Tablets Devices */
 @media screen and (min-width: 769px) and (max-width: 992px){
+    .sidebar{
+        display: block;
+    }
 }
+
 
 /* Large Devices */
 @media screen and (min-width: 993px) and (max-width: 1200px){
+    .sidebar{
+        display: block;
+    }
 }
